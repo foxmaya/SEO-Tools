@@ -57,6 +57,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Robots.txt Generator:http://www.yellowpipe.com/yis/tools/robots.txt/</li>  
     <li>Robot.txt Generator:http://tools.seobook.com/robots-txt/generator/</li>
   </ul>
+     <h4>Disavow File Generator</h4>
+  <ul>
+    <li>Disavow File Generator:https://sumitdynamics.com/disavow-file-generator/</li>  
+  </ul>
    <h4>Sitemap Generator</h4>
   <ul>
     <li>XML-Sitemaps.com:https://www.xml-sitemaps.com/</li>  
